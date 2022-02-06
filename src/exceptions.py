@@ -1,0 +1,2 @@
+class NotDivisibleError(Exception):
+    pass
